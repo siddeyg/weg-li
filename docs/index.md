@@ -73,6 +73,23 @@ Welcome to the comprehensive documentation for **weg-li** - a civic engagement p
    - Reply tracking
    - Scheduled jobs and maintenance
 
+### AI and Machine Learning
+
+**Deep analysis of all AI functions:**
+
+6. **[AI Functions Documentation](ai-functions.md)**
+   - Google Cloud Vision API integration
+   - License plate OCR and parsing
+   - Vehicle brand recognition
+   - Color detection and matching
+   - EXIF metadata extraction
+   - Geocoding and reverse geocoding
+   - Proximity-based suggestions
+   - User history analysis
+   - Alternative car-ml service
+   - Analysis pipeline orchestration
+   - DataSet storage model
+
 ---
 
 ## Quick Reference
@@ -183,6 +200,7 @@ docs/
 ├── models-database.md          # Data models and database schema
 ├── api-integrations.md         # APIs and external services
 ├── features-workflows.md       # Feature descriptions and workflows
+├── ai-functions.md             # AI/ML functions deep analysis
 └── development-setup.md        # Setup guide for developers
 ```
 
